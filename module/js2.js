@@ -1,5 +1,5 @@
 let m = 100;
 
-export default{
-    "mm":m,
+export default {
+    "mm": m,
 }
